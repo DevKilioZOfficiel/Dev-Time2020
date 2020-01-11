@@ -1,0 +1,15 @@
+{
+    "language__code": "EN",
+	"language__name": "English",
+	"language__author": [
+	    {
+		    "language__author__name": "KilioZ"
+		}
+	],
+	"language__version": "1.0.0 Alpha",
+	"home__welcome": "Welcome to {project_name}",
+	"home__version__project": "{project_name} is currently in {version}",
+	"home__project_in_work": "Under development since {date}",
+	"home__change_language": "Change language"
+	
+}
